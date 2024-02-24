@@ -6,7 +6,7 @@ It build, evaluate and improve a RAG system for Contract Q&A (chatting with a co
     Python 3.8 or higher
     pandas library
 
-##Installation
+## Installation
 
     Clone the repository to your local machine:
 
@@ -30,7 +30,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-##Usage
+## Usage
 
     Prepare your contract data in a pdf file and upload it on the user interface space you will got.
     Ask any question about the document on the user interface. 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
